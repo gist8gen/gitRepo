@@ -1,2 +1,2 @@
 Bu kayıt orjinaldir.
-LOKAL isim değişikliği...
+Remote GSAP project
